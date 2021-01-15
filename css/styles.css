@@ -28,15 +28,15 @@ body{
 }
 #wide {
   width: 425px;
-  position: absolute;
-  left:625px;
+  position: relative;
+  left:150px;
 }
 #space {
   padding-right: 10px;
 }
 #print {
-  position: absolute;
-  left: 1000px;
+  position: relative;
+  left:  580px;
   font-size: 11px;
 }
 .logos {
