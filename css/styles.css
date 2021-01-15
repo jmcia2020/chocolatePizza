@@ -73,5 +73,12 @@
   margin-top: 145px;
 }
 button {
-  
+  background-color: rgba(139, 0, 0, 70%);
+  color: white;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 35px;
+  padding-left: 35px;
+  font-family: 'Oswald', sans-serif;
 }
